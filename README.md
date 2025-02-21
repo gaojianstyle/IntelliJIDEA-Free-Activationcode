@@ -6,6 +6,7 @@
 ## 1.下载jar包
 
 * 下载链接：[https://restful.doublefenzhuan.me/public/cac4a9b3-ec83-41aa-9f12-716c4c446ad6-enc-sniarbtej-2024.2.0.jar](https://restful.doublefenzhuan.me/public/cac4a9b3-ec83-41aa-9f12-716c4c446ad6-enc-sniarbtej-2024.2.0.jar)
+* 也可以直接克隆仓库文件（一样的）
 
 * **注意下载以后，将jar包改名为**`enc-sniarbtej-2024.2.0.jar` 
 
