@@ -28,7 +28,7 @@
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/1f4f439785024578afe30cff3865795f.png)
 
-## 4. 找到对于的*.vmoptions 文件，一般在下面Jetbrain软件的bin目录下，并进行编辑（如下图所示）
+## 4. 找到对应的*.vmoptions 文件，一般在下面Jetbrain软件的bin目录下，并进行编辑（如下图所示）
 
 ![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/4c977518d6d64bc59b5858c61e85ea6c.png)
 
