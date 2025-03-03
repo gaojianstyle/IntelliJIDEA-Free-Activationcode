@@ -52,7 +52,7 @@
 **输入如下指令并回车**
 
 ```bash
-java -jar enc-sniarblej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -products=II,PC
+java -jar enc-sniarbtej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -products=II,PC
 ```
 
 如下图
@@ -72,7 +72,7 @@ java -jar enc-sniarblej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -pr
 ## 7. 指令补充
 
 ```bash
-java -jar enc-sniarblej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -products=II,PC
+java -jar enc-sniarbtej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -products=II,PC
 ```
 
 该段指令
