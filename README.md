@@ -2,6 +2,7 @@
 # **JetBrains系列软件破解免费激活**
 
 **支持JetBrains系列大部分软件，如IntelliJ IDEA ，WebStorm等等**
+**注意：版本不要太新，最好是2024年以下版本，太新的版本激活码可能会失效**
 
 ## 1.下载jar包
 
