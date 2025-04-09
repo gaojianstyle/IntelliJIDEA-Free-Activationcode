@@ -107,3 +107,8 @@ java -jar enc-sniarbtej-2024.2.0.jar -genkey -id=Me -user=Me -exp=2099-12-31 -pr
 ### 清除后再重新执行一下步骤
 
 ***以上仅供个人学习使用***
+
+
+## 解决 Error saving license data & 激活成功后仍需激活2024.3.1.1 (Ultimate Edition)——241231
+https://blog.csdn.net/qq_43763494/article/details/144848087
+
